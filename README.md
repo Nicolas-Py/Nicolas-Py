@@ -1,2 +1,4 @@
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
+<a href="https://apps.apple.com/de/app/nodes-by-the-werk/id6745401961">
+<img width="2880" height="1800" alt="Mac App Store Image - Hero" src="https://github.com/user-attachments/assets/116d7b8d-c01a-46c9-bc0b-ef7f8668d0c6" />
+</a>
